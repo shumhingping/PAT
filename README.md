@@ -12,4 +12,4 @@
 ### Basic level
 |编号|标题|C/C++|备注|
 |:---|:---|:---|:---|
-|B1029|旧键盘(20)|[查看题解]()|散列|
+|B1029|旧键盘(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1029%20%E6%97%A7%E9%94%AE%E7%9B%98(20))|散列|
