@@ -25,7 +25,6 @@ Sample Output:
 代码长度限制: 16KB
 
 分析：最大的正数相乘乘积最大，最小的负数相乘乘积最大。故按大小排好序之后，将从前、后分别相乘的乘机累加即得最大和
-![图解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/%E5%9B%BE%E8%A7%A31.jpg)
 
 #include<cstdio> 
 #include<algorithm>
