@@ -5,26 +5,26 @@
 ### Advance level
 |编号|标题|C/C++|备注|
 |:---|:---|:---|:---|
-|A1008|Elevator(20)|[查看题解}(https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1008%20Elevator%20(20).cpp|简单数学|
-|A1033|To Fill or Not to Fill(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25).cpp|贪心|
+|A1008|Elevator(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1008%20Elevator%20(20).cpp)|简单数学|
+|A1033|To Fill or Not to Fill(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1033%20To%20Fill%20or%20Not%20to%20Fill%20(25).cpp)|贪心|
 |A1037|Magic Coupon (25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1037%20Magic%20Coupon%20(25).cpp)|贪心|
 |A1038|Recover the Smallest Number(30)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1038%20Recover%20the%20Smallest%20Number%20(30).cpp)|贪心|
 |A1041|Be Unique(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1041%20Be%20Unique%20(20).cpp)|散列|
 |A1048|Find Coins(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1048%20Find%20Coins%20(25).cpp)|散列|
 |A1050|String Subtraction(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1050%20String%20Subtraction%20(20).cpp)|散列|
-|A1067|Sort with Swap(0,* ) (25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1067%20Sort%20with%20Swap(0%2C*)%20(25).cpp|贪心|
+|A1067|Sort with Swap(0,* ) (25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1067%20Sort%20with%20Swap(0%2C*)%20(25).cpp)|贪心|
 |A1069|The Black Hole of Numbers(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1069%20The%20Black%20Hole%20of%20Numbers(20).cpp)|简单数学|
 |A1070|Mooncake(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1070%20Mooncake%20(25).cpp)|贪心|
 |A1080|Graduate Admission(30)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1080%20Graduate%20Admission%20(30).cpp)|排序|
 |A1081|Rational Sum(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1081%20Rational%20Sum(20).cpp)|分数的四则运算|
 |A1084|Broken Keyboard(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1084%20Broken%20Keyboard%20(20).cpp)|散列|
-|A1085|Perfect Sequence(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1085%20Perfect%20Sequence(25).cpp|two pointers|
+|A1085|Perfect Sequence(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1085%20Perfect%20Sequence(25).cpp)|two pointers|
 |A1088|Rational Arithmetic(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1088%20Rational%20Arithmetic(20).cpp)|分数的四则运算|
 |A1092|To Buy or Not to Buy(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1092%20To%20Buy%20or%20Not%20to%20Buy%20(20).cpp)|散列|
-|A1093|Count PAT's(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1093%20Count%20PAT's(25).cpp|逻辑题|
+|A1093|Count PAT's(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1093%20Count%20PAT's(25).cpp)|逻辑题|
 |A1095|Cars on Campus(30)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1080%20Graduate%20Admission%20(30).cpp)|排序|
 |A1101|Quick Sort(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1101%20Quick%20Sort(25).cpp)|快速排序|
-|A1104|Sum of Number Segments(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1104%20Sum%20of%20Number%20Segments(20).cpp|简单数学|
+|A1104|Sum of Number Segments(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Advanced%20level/1104%20Sum%20of%20Number%20Segments(20).cpp)|简单数学|
 
 ### Basic level
 |编号|标题|C/C++|备注|
