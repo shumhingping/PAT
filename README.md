@@ -39,4 +39,4 @@
 |B1039|到底买不买(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1039%20%E5%88%B0%E5%BA%95%E4%B9%B0%E4%B8%8D%E4%B9%B0(20).cpp)|散列|
 |B1042|字符统计(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1042%20%E5%AD%97%E7%AC%A6%E7%BB%9F%E8%AE%A1(20).cpp)|散列|
 |B1043|输出PATest(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1043%20%E8%BE%93%E5%87%BAPATest(20).cpp)|散列|
-|B1043|编程团体赛(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1047%20%E7%BC%96%E7%A8%8B%E5%9B%A2%E4%BD%93%E8%B5%9B(20).cpp)|散列|
+|B1047|编程团体赛(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1047%20%E7%BC%96%E7%A8%8B%E5%9B%A2%E4%BD%93%E8%B5%9B(20).cpp)|散列|
