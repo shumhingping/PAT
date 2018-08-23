@@ -24,7 +24,7 @@ Sample Output:
 int main( ){
 	int n, now=0, to, sum=0;            //now现在所在的楼层，to要去的楼层，sum总共花的时间
 	scanf("%d", &n);
-	sum += 5*n;                         //每停下一次就要花费5秒，不管那个楼层和now之间是上升、下降还是不动
+	sum += 5*n;                         //每停下一次就要花费5秒，即使to等于now
 	for(int i=0; i<n; i++){
 		scanf("%d", &to);
 		if(to<now) sum += 4*(now-to);     //下降一层花费4秒
