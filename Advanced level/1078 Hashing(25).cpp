@@ -24,7 +24,7 @@ Sample Output:
 
 #include<cstdio>
 #include<cmath>
-int isprime( int n ){                   //判断素数函数
+bool isprime( int n ){                   //判断素数函数
 	if(n<=1) return false;
 	int sqr = (int)sqrt(1.0*n);
 	for(int i=2; i<=sqr; i++) {
