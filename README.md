@@ -29,6 +29,7 @@
 ### Basic level
 |编号|标题|C/C++|备注|
 |:---|:---|:---|:---|
+|B1001|害死人不偿命的(3n+1)猜想 (15)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1001%20%E5%AE%B3%E6%AD%BB%E4%BA%BA%E4%B8%8D%E5%81%BF%E5%91%BD%E7%9A%84(3n%2B1)%E7%8C%9C%E6%83%B3%20%20(15))|简单模拟|
 |B1003|我要通过！(20)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1003%20%E6%88%91%E8%A6%81%E9%80%9A%E8%BF%87%EF%BC%81(20).cpp)|简单数学|
 |B1005|继续(3n+1)猜想(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1005%20%E7%BB%A7%E7%BB%AD(3n%2B1)%E7%8C%9C%E6%83%B3%20(25).cpp)|散列|
 |B1020|月饼(25)|[查看题解](https://github.com/shumhingping/PAT/blob/master/Basic%20level/1020%20%E6%9C%88%E9%A5%BC%20(25).cpp)|贪心|
